@@ -1,9 +1,6 @@
 Debug/
 Release/
 
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
 *.sdf
 *.suo
 *.VC.opendb
