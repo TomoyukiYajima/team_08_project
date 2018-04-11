@@ -1,11 +1,9 @@
-DxLib_VC/
 Debug/
 Release/
 
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
-*.sln
 *.sdf
 *.suo
 *.VC.opendb
