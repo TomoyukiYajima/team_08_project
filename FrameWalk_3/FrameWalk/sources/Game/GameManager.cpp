@@ -8,7 +8,7 @@
 #include "../Utility/Resource/Sound/Sound.h"
 
 GameManager::GameManager() : 
-	Game("Game", 1024, 768, 1.0f, FALSE)
+	Game("Game", 1024, 768, 1.0f, TRUE)
 {
 }
 
